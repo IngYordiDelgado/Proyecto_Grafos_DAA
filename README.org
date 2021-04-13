@@ -4,7 +4,5 @@
 #+STARTUP:  CONTENT
 
 
-* Información general
-- Asignatura :: Diseño y Análisis de Algoritmos
-- Docente :: Dr. Rolando Quintero Téllez
-- Maestría :: Maestría en Ciencias en Ingeniería de Cómputo
+* Información:
+  El presente codigo se desarrollo para la materia de Diseño De Algoritmos 
