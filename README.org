@@ -5,4 +5,4 @@
 
 
 * Información:
-  El presente codigo se desarrollo para la materia de Diseño De Algoritmos 
+  El presente codigo se desarrollo para la materia de Diseño y Analisis De Algoritmos 
