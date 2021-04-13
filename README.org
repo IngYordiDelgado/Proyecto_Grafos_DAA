@@ -1,4 +1,4 @@
-#+TITLE: Proyecto Diseño y Análisis de Algoritmos
+#+TITLE: Proyecto  1 Diseño y Análisis de Algoritmos
 #+author: Yordi Edgardo Delgado Ortiz 
 
 #+STARTUP:  CONTENT
