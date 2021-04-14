@@ -21,15 +21,15 @@
 
 * Modelo Erdos Renyi
 **30 Nodos y 200 Aristas
-[[Erdös_y_Rény_30_200.png ]]
+[[./img/Imagenes/Erdös_y_Rény/Erdös_y_Rény_30_200.png ]]
 
 
 **100 Nodos y 400 Aristas
-[[Erdös_y_Rény_100_400.png ]]
+[[./img/Imagenes/Erdös_y_Rény/Erdös_y_Rény_100_400.png ]]
 
 
 **500 Nodos y 2500 Aristas
-[[Erdös_y_Rény_500_2500.png ]]
+[[./Erdös_y_Rény_500_2500.png ]]
 
 * Gilbert
 ** 30 nodos
