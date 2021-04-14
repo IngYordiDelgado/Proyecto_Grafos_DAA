@@ -5,17 +5,16 @@
 
 
 * Información:
-  El presente codigo se desarrollo para la materia de Diseño y Analisis De Algoritmos 
+  El presente codigo se desarrollo para la materia de Diseño y Analisis De Algoritmos
+  MCIC-CIC-IPN
 
 * Imágenes Generadas con gephi
 * Imagenes Del Modelo de Malla
 ** 30 nodos(5x6)
 [[./img/Imagenes/Mallas/mallas_30_nodos.png]]
 
-** 100 nodos
-- m :: 10
-- n :: 10
-[[./img/100/grafoMalla_10_10.png]]
+** 100 nodos(10x10)
+[[./img/Imagenes/Mallas/mallas_100_nodos.png]]
 
 ** 500 nodos
 - m :: 25
