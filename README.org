@@ -19,23 +19,21 @@
 ** 500 nodos(50x10)
 [[./img/Imagenes/Mallas/mallas_500_nodos.png]]
 
-* Modelo Erdos Renyi
-**30 Nodos y 200 Aristas
+* Modelo de Erdos y Renyi
+** 30 Nodos y 200 Aristas
 [[./img/Imagenes/Erdös_y_Rény/Erdös_y_Rény_30_200.png ]]
 
 
-**100 Nodos y 400 Aristas
+** 100 Nodos y 400 Aristas
 [[./img/Imagenes/Erdös_y_Rény/Erdös_y_Rény_100_400.png ]]
 
 
-**500 Nodos y 2500 Aristas
+** 500 Nodos y 2500 Aristas
 [[./img/Imagenes/Erdös_y_Rény/Erdös_y_Rény_500_2500.png ]]
 
-* Gilbert
-** 30 nodos
-- n :: 30
-- p :: 0.7
-[[./img/30/grafoGilbert_30_70.png]]
+* Modelo de Gilbert
+** 30 nodos y probabilidad 0.5
+[[./img/Gilbert/grafo_gilbert_30_05.png]]
 
 ** 100 nodos
 - n :: 100
