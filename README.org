@@ -42,17 +42,15 @@
 [[./img/Imagenes/Gilbert/grafo_gilbert_500_002.png]]
 * Modelo Geográfico
 ** 30 nodos y distancia 0.5
-[[./img/Imagenes/Geografico/grafo_geografico_30_05]]
+[[./img/Imagenes/Geografico/grafo_geografico_30_05.png]]
 
-** 100 nodos
-- n :: 100
-- r :: 0.4
-[[./img/100/grafoGeografico_100_40.png]]
+** 100 nodos y distancia 0.3
 
-** 500 nodos
-- n :: 500
-- r :: 0.1
-[[./img/500/grafoGeografico_500_10.png]]
+[[./img/Imagenes/Geografico/grafo_geografico_100_03.png]]
+
+** 500 nodos y distancia 0.1
+
+[[./img/Imagenes/Geografico/grafo_geografico_500_01.png]]
 
 * Barabasi
 ** 30 nodos
