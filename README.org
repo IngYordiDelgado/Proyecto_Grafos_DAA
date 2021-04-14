@@ -53,10 +53,8 @@
 [[./img/Imagenes/Geografico/grafo_geografico_500_01.png]]
 
 * Barabasi
-** 30 nodos
-- n :: 30
-- d :: 7
-[[./img/30/grafoBarabasi_30_7.png]]
+** 30 nodos y grado 10
+[[./img/Imagenes/Babarasi/grafo_barabasi_30_10.png]]
 
 ** 100 nodos
 - n :: 100
