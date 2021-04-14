@@ -8,10 +8,8 @@
   El presente codigo se desarrollo para la materia de Diseño y Analisis De Algoritmos 
 
 * Imágenes - Resultados
-* Malla
-** 30 nodos
-- m :: 6
-- n :: 5
+* Modelo de Malla
+** 30 nodos(5x6)
 [[./img/30/grafoMalla_6_5.png]]
 
 ** 100 nodos
