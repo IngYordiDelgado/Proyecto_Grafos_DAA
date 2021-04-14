@@ -8,7 +8,7 @@
   El presente codigo se desarrollo para la materia de Diseño y Analisis De Algoritmos
   MCIC-CIC-IPN
 
-* Imágenes Generadas con gephi
+* Imágenes de los Modelos Generadas con gephi
 * Modelo de Mallas
 ** 30 nodos(5x6)
 [[./img/Imagenes/Mallas/mallas_30_nodos.png]]
@@ -16,24 +16,20 @@
 ** 100 nodos(10x10)
 [[./img/Imagenes/Mallas/mallas_100_nodos.png]]
 
-** 500 nodos(10x10)
+** 500 nodos(50x10)
 [[./img/Imagenes/Mallas/mallas_500_nodos.png]]
 
-* Erdos Renyi
-** 30 nodos
-- n :: 30
-- m :: 150
-[[./img/30/grafoErdos_Renyi_30_150.png]]
+* Modelo Erdos Renyi
+**30 Nodos y 200 Aristas
+[[Erdös_y_Rény_30_200.png ]]
 
-** 100 nodos
-- n :: 100
-- m :: 550
-[[./img/100/grafoErdos_Renyi_100_550.png]]
 
-** 500 nodos
-- n :: 500
-- m :: 2550
-[[./img/500/grafoErdos_Renyi_500_2550.png]]
+**100 Nodos y 400 Aristas
+[[Erdös_y_Rény_100_400.png ]]
+
+
+**500 Nodos y 2500 Aristas
+[[Erdös_y_Rény_500_2500.png ]]
 
 * Gilbert
 ** 30 nodos
