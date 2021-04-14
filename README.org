@@ -54,17 +54,13 @@
 
 * Barabasi
 ** 30 nodos y grado 10
-[[./img/Imagenes/Babarasi/grafo_barabasi_30_10.png]]
+[[./img/Imagenes/Babarasi/grafo_babarasi_30_10.png]]
 
-** 100 nodos
-- n :: 100
-- d :: 7
-[[./img/100/grafoBarabasi_100_7.png]]
+** 100 nodos y grado 7
+[[./img/Imagenes/Babarasi/grafo_babarasi_100_07.png]]
 
-** 500 nodos
-- n :: 500
-- d :: 7
-[[./img/500/grafoBarabasi_500_7.png]]
+** 500 nodos y grado 12
+[[img/Imagenes/Babarasi/grafo_babarasi_500_12.png]]
 
 * Dorogovtsev
 ** 30 nodos
