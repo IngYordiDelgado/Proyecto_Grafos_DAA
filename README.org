@@ -9,17 +9,15 @@
   MCIC-CIC-IPN
 
 * Imágenes Generadas con gephi
-* Imagenes Del Modelo de Malla
+* Modelo de Mallas
 ** 30 nodos(5x6)
 [[./img/Imagenes/Mallas/mallas_30_nodos.png]]
 
 ** 100 nodos(10x10)
 [[./img/Imagenes/Mallas/mallas_100_nodos.png]]
 
-** 500 nodos
-- m :: 25
-- n :: 20
-[[./img/500/grafoMalla_25_20.png]]
+** 500 nodos(10x10)
+[[./img/Imagenes/Mallas/mallas_100_nodos.png]]
 
 * Erdos Renyi
 ** 30 nodos
