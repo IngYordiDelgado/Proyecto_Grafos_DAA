@@ -10,7 +10,7 @@
 * Imágenes Generadas con gephi
 * Imagenes Del Modelo de Malla
 ** 30 nodos(5x6)
-[[.img/Imagenes/Mallas/mallas_100_nodos.png]]
+[[./img/Imagenes/Mallas/mallas_30_nodos.png]]
 
 ** 100 nodos
 - m :: 10
