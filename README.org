@@ -35,15 +35,11 @@
 ** 30 nodos y probabilidad 0.5
 [[./img/Imagenes/Gilbert/grafo_gilbert_30_5.png]]
 
-** 100 nodos
-- n :: 100
-- p :: 0.4
-[[./img/100/grafoGilbert_100_40.png]]
+** 100 nodos y probabilidad 0.3
+[[./img/Imagenes/Gilbert/grafo_gilbert_100_03.png]]
 
-** 500 nodos
-- n :: 500
-- p :: 0.1
-[[./img/500/grafoGilbert_500_10.png]]
+** 500 nodos y probabilidad 0.02
+[[./img/Imagenes/Gilbert/grafo_gilbert_100_002.png]]
 * Geográfico
 ** 30 nodos
 - n :: 30
