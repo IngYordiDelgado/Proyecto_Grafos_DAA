@@ -7,10 +7,10 @@
 * Información:
   El presente codigo se desarrollo para la materia de Diseño y Analisis De Algoritmos 
 
-* Imágenes - Resultados
-* Modelo de Malla
+* Imágenes Generadas con gephi
+* Imagenes Del Modelo de Malla
 ** 30 nodos(5x6)
-[[./img/30/grafoMalla_6_5.png]]
+[[.img/Imagenes/Mallas/mallas_100_nodos.png]]
 
 ** 100 nodos
 - m :: 10
