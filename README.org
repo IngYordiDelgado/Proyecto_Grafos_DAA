@@ -29,7 +29,7 @@
 
 
 **500 Nodos y 2500 Aristas
-[[./Erdös_y_Rény_500_2500.png ]]
+[[./img/Imagenes/Erdös_y_Rény/Erdös_y_Rény_500_2500.png ]]
 
 * Gilbert
 ** 30 nodos
