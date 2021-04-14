@@ -17,7 +17,7 @@
 [[./img/Imagenes/Mallas/mallas_100_nodos.png]]
 
 ** 500 nodos(10x10)
-[[./img/Imagenes/Mallas/mallas_100_nodos.png]]
+[[./img/Imagenes/Mallas/mallas_500_nodos.png]]
 
 * Erdos Renyi
 ** 30 nodos
