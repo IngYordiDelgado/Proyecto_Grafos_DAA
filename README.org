@@ -33,7 +33,7 @@
 
 * Modelo de Gilbert
 ** 30 nodos y probabilidad 0.5
-[[./img/Imagenes/Gilbert/grafo_gilbert_30_05.png]]
+[[.img/Imagenes/Gilbert/grafo_gilbert_30_05.png]]
 
 ** 100 nodos
 - n :: 100
