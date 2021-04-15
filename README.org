@@ -52,7 +52,7 @@
 
 [[./img/Imagenes/Geografico/grafo_geografico_500_01.png]]
 
-* Barabasi
+* Modelo Barabasi
 ** 30 nodos y grado 10
 [[./img/Imagenes/Babarasi/grafo_babarasi_30_10.png]]
 
@@ -62,10 +62,10 @@
 ** 500 nodos y grado 12
 [[img/Imagenes/Babarasi/grafo_babarasi_500_12.png]]
 
-* Dorogovtsev
+* Modelo Dorogovtsev
 ** 30 nodos
-[[./img/30/grafoDorogovtsev_30.png]]
+[[./img/Imagenes/Dogorostev/grafo_dogorostev_30.png]]
 ** 100 nodos
-[[./img/100/grafoDorogovtsev_100.png]]
+[[./img/Imagenes/Dogorostev/grafo_dogorostev_100.png]]
 ** 500 nodos
-[[./img/500/grafoDorogovtsev_500.png]]
+[[./img/Imagenes/Dogorostev/grafo_dogorostev_500.png]]
