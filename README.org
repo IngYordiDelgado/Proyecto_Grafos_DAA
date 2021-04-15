@@ -64,8 +64,8 @@
 
 * Modelo Dorogovtsev
 ** 30 nodos
-[[./img/Imagenes/Dogorostev/grafo_dogorostev_30.png]]
+[[./img/Imagenes/Dogorostev/grafo_dogorostev_mendez_30.png]]
 ** 100 nodos
-[[./img/Imagenes/Dogorostev/grafo_dogorostev_100.png]]
+[[./img/Imagenes/Dogorostev/grafo_dogorostev_100_mendez.png]]
 ** 500 nodos
-[[./img/Imagenes/Dogorostev/grafo_dogorostev_500.png]]
+[[./img/Imagenes/Dogorostev/grafo_dogorostev_500_mendez.png]]
