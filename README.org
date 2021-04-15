@@ -5,10 +5,9 @@
 
 
 * Información:
-  El presente codigo se desarrollo para la materia de Diseño y Analisis De Algoritmos
-  De la maestría en ciencias en ingeniería de computo, impartida por el Dr. Rolando Quintero Téllez en el centro de investigación en computo del instituto politécnico  nacional.
+  El 
  
- * Imágenes de los Modelos Generadas con gephi
+* Imágenes de los Modelos Generadas con gephi
 * Modelo de Mallas
 ** 30 nodos(5x6)
 [[./img/Imagenes/Mallas/mallas_30_nodos.png]]
