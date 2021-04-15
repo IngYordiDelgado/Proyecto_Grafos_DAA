@@ -3,7 +3,8 @@
 
 #+STARTUP:  CONTENT
 
-* Desarrollador :: Yordi Edgardo Delgado Ortiz 
+* Desarrollador :
+_ Yordi Edgardo Delgado Ortiz 
 
 * Información:
 El presente Código fue desarrollado de acuerdo con las especificaciones proporcionadas, contiene las 3 clases requeridas Grafo, Nodo, Arista, así como una clase parser_writer que se encarga de hacer la conversión a lenguaje .dot y guardar el grafo generado en formato Graphviz.
