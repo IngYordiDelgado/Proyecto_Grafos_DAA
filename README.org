@@ -7,8 +7,10 @@
 Yordi Edgardo Delgado Ortiz 
 
 * Información:
-Biblioteca para describir y utilizar grafos. <br/>
-El presente Código fue desarrollado de acuerdo con las especificaciones proporcionadas, contiene las 3 clases requeridas Grafo, Nodo, Arista, así como una clase parser_writer que se encarga de hacer la conversión a lenguaje .dot y guardar el grafo generado en formato Graphviz.<br/>
+Biblioteca para describir y utilizar grafos.
+
+El presente Código fue desarrollado de acuerdo con las especificaciones proporcionadas, contiene las 3 clases requeridas Grafo, Nodo, Arista, así como una clase parser_writer que se encarga de hacer la conversión a lenguaje .dot y guardar el grafo generado en formato Graphviz.
+
 Se generaron las imágenes correspondientes a cada modelo, las cuales se muestran a continuación 
 
  
